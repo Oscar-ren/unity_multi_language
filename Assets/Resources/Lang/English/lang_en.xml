@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contents>
+  <content lang="en" name="ENG_US">
+    <text id="MENU_BTN_SHOP" maxLength="255">Store</text>
+    <text id="MENU_BTN_TEACH" maxLength="255">Teaching</text>
+    <text id="MENU_BTN_SET" maxLength="255">Setting</text>
+    <text id="MENU_TEXT_INFO" maxLength="255">Best Score</text>
+    <text id="MENU_BTN_SCENE_ARENA" maxLength="255">Arena Mode</text>
+    <text id="MENU_BTN_SCENE_ITEM" maxLength="255">Item Mode</text>
+    <text id="MENU_TEXT_DEFAULT_INPUT" maxLength="255">Input your name</text>
+    <text id="GAME_RANK_TITLE" maxLength="255">Rank List</text>
+    <text id="GAME_PANEL_PAUSE_TITLE" maxLength="255">Game Over</text>
+    <text id="GAME_PANEL_PAUSE_KILL_NUM" maxLength="255">Kill Number:</text>
+    <text id="GAME_PANEL_PAUSE_SIZE" maxLength="255">Size:</text>
+    <text id="GAME_PANEL_PAUSE_BTN_BACKMENU" maxLength="255">Back To Menu</text>
+    <text id="GAME_PANEL_PAUSE_BTN_RELIVE" maxLength="255">Relive</text>
+    <text id="TIP_BACK_MENU" maxLength="255">Press Again To Menu</text>
+    <text id="TIP_BACK_GAME_QUIT" maxLength="255">Press Again To Quit</text>
+    <text id="TIP_NETWORK_ERROR" maxLength="255">Seems to disconnected from the Internet connection</text>
+    <text id="TIP_COIN_NOT_ENOUGH" maxLength="255">Account balance is insufficient</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_0" maxLength="255">Killing Spree</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_1" maxLength="255">Rampage</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_2" maxLength="255">Unstoppable</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_3" maxLength="255">Dominating</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_4" maxLength="255">Godlike</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_5" maxLength="255">Legendary</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_6" maxLength="255">Monster Kill</text>
+    <text id="TIP_KILL_TOTAL_LEVEL_7" maxLength="255">Holy Shit</text>
+    <text id="TIP_KILL_MULTI_LEVEL_0" maxLength="255">First Blood</text>
+    <text id="TIP_KILL_MULTI_LEVEL_1" maxLength="255">Double Kill</text>
+    <text id="TIP_KILL_MULTI_LEVEL_2" maxLength="255">Triple Kill</text>
+    <text id="TIP_KILL_MULTI_LEVEL_3" maxLength="255">Quatary Kill</text>
+    <text id="TIP_KILL_MULTI_LEVEL_4" maxLength="255">Penta Kill</text>
+    <text id="TIP_KILL_NORMAL_INFO" maxLength="255">Kill</text>
+    <text id="TIP_KILL_SHUTDOWN_INFO" maxLength="255">Shutdown</text>
+    <text id="TIP_KILL_AWARD_INFO" maxLength="255">And get the             of the land</text>
+    <text id="TEXT_LEVEL_0" maxLength="255">Bronze</text>
+    <text id="TEXT_LEVEL_1" maxLength="255">Sliver</text>
+    <text id="TEXT_LEVEL_2" maxLength="255">Glod</text>
+    <text id="SHOP_PANEL_HAS_BOUGHT" maxLength="255">Purchased</text>
+    <text id="SHOP_PANEL_USE" maxLength="255">Used</text>
+    <text id="SHOP_PANEL_BUY" maxLength="255">Buy</text>
+    <text id="SHOP_PANEL_CONFIRM_BUY" maxLength="255">Confirm</text>
+    <text id="SHOP_PANEL_CANCEL_BUY" maxLength="255">Cancel</text>
+    <text id="SHOP_PANEL_TYPE_SKIN" maxLength="255">Skin</text>
+    <text id="SHOP_PANEL_BTN_BACK" maxLength="255">Back</text>
+    <text id="SETTING_PANEL_TITLE" maxLength="255">Setting</text>
+    <text id="SETTING_PANEL_BACKGUOUND_MUSIC" maxLength="255">Music</text>
+    <text id="SETTING_PANEL_SOUND" maxLength="255">Sound</text>
+    <text id="SETTING_PANEL_CONTROL_MODE" maxLength="255">Right Hand</text>
+    <text id="GAME_END_RANK_PANEL_TITLE" maxLength="255">Game Over</text>
+    <text id="GAME_END_RANK_PANEL_ROW_TITLE_0" maxLength="255">Rank</text>
+    <text id="GAME_END_RANK_PANEL_ROW_TITLE_1" maxLength="255">User</text>
+    <text id="GAME_END_RANK_PANEL_ROW_TITLE_2" maxLength="255">Size</text>
+    <text id="GAME_END_RANK_PANEL_ROW_TITLE_3" maxLength="255">Kill</text>
+    <text id="GAME_END_RANK_PANEL_ROW_TITLE_4" maxLength="255">Coin</text>
+    <text id="PC_INTERACTION_SPEED_BUTTON" maxLength="255">Speed</text>
+  </content>
+</contents>
